@@ -46,3 +46,4 @@ cv2.destroyAllWindows()
 
 
 plt.savefig("reading_image_usingCV2.jpg")
+print("END")
