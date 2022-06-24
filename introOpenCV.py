@@ -90,3 +90,4 @@ text=cv2.putText(text,'Intro OpenCV',(400,750),cv2.FONT_HERSHEY_SIMPLEX,5,(255,0
 cv2.imshow("displaying_text_window",text)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+print("END")
