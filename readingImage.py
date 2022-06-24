@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 # read image using cv2 and show using cv2
-image_path='./tomato.png'
+image_path='./input_image/tomato.png'
 image=cv2.imread(image_path,1)
 '''
 window_name="reading_image_window"

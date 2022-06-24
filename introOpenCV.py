@@ -1,7 +1,7 @@
 # Reading an image
 import cv2
 
-image_path='road.jpg'
+image_path='./input_image/road.jpg'
 image=cv2.imread(image_path)
 h,w=image.shape[:2]#give first=height,second=width
 print(image)
