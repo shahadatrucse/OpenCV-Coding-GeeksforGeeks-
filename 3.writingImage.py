@@ -14,4 +14,4 @@ cv2.imwrite(filename, image)# image write in destination
 
 print("After wirte image in destination")
 print(os.listdir(destination))
-print("Write image in destination successfully")
+print("Write image in destination successfully.")
